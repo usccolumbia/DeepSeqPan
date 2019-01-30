@@ -8,5 +8,7 @@ This the corresponding repository of paper [DeepSeqPan, a novel deep convolution
 - models: Trained models.
 - scripts: Code to run
 
-Cite us: Zhonghao Liu, Yuxin Cui, Zheng Xiong, Alierza Nasiri, Ansi Zhang & Jianjun Hu, DeepSeqPan, a novel deep convolutional neural network model for pan-specific class I HLA-peptide binding affinity prediction
+##Cite us: 
+
+Zhonghao Liu, Yuxin Cui, Zheng Xiong, Alierza Nasiri, Ansi Zhang & Jianjun Hu, DeepSeqPan, a novel deep convolutional neural network model for pan-specific class I HLA-peptide binding affinity prediction
 Scientific Reportsvolume 9, Article number: 794 (2019)
