@@ -2,6 +2,8 @@
 
 This the corresponding repository of paper [DeepSeqPan, a novel deep convolutional neural network model for pan-specific class I HLA-peptide binding affinity prediction](https://www.nature.com/articles/s41598-018-37214-1) published on Nature Scientific Report 2019.
 
+This work is completed at [Department of Computer Science and Engineering](www.cse.sc.edu), University of South Carolina.
+
 ## Structure
 
 - dataset: All training and evaluation dataset.
